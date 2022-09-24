@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 100px 200px 100px 200px;
+    margin: 90px 180px 90px 180px;
 }
 .main{
     align-items: center;
@@ -13,7 +13,7 @@ h2{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 20px;
+    margin-top: 18px;
     font-size: 35px;
 }
 span{
